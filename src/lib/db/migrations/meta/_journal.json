@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1785071321307,
+      "tag": "0000_grey_mathemanic",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1785189998755,
+      "tag": "0001_futuristic_scarecrow",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1785193883496,
+      "tag": "0002_first_eddie_brock",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1785196893883,
+      "tag": "0003_ambitious_machine_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1785197681568,
+      "tag": "0004_known_tigra",
+      "breakpoints": true
+    }
+  ]
+}
